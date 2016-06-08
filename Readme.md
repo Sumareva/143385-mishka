@@ -1,7 +1,7 @@
 # Личный проект «Мишка» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
 * Студент: [Людмила Гвоздицких](https://up.htmlacademy.ru/adaptive/7/user/143385).
-* Наставник: `Неизвестно`.
+* Наставник: [Михаил Баженов] (https://htmlacademy.ru/profile/id87047).
 
 ---
 
